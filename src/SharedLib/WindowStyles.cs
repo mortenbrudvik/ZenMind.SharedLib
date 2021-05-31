@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using PInvoke;
-using SharedLib.Extensions;
+using ZenMind.SharedLib.Extensions;
 
-namespace SharedLib
+namespace ZenMind.SharedLib
 {
     // DWMWA_HAS_ICONIC_BITMAP
     public class WindowStyles 

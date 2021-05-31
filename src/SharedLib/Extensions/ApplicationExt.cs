@@ -1,7 +1,7 @@
 ﻿using System;
-using SharedLib.Tools;
+using ZenMind.SharedLib.Tools;
 
-namespace SharedLib.Extensions
+namespace ZenMind.SharedLib.Extensions
 {
     public static class ApplicationExt
     {

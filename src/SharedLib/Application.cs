@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using Ardalis.GuardClauses;
 
-namespace SharedLib
+namespace ZenMind.SharedLib
 {
     public class Application
     {

@@ -1,4 +1,4 @@
-﻿namespace ApplicationCore.Extensions
+﻿namespace ZenMind.SharedLib.Extensions
 {
     public static class StringExtensions
     {

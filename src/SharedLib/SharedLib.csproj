@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ZenMind.SharedLib</RootNamespace>
 <!--    <RepositoryUrl>https://github.com/mortenbrudvik/ZenMind.SharedLib/</RepositoryUrl>-->
 <!--    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>-->
   </PropertyGroup>

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SharedLib.Extensions
+namespace ZenMind.SharedLib.Extensions
 {
     public static class EnumExt
     {

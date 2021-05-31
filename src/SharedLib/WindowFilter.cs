@@ -1,6 +1,6 @@
-using SharedLib.SystemApi;
+using ZenMind.SharedLib.SystemApi;
 
-namespace SharedLib
+namespace ZenMind.SharedLib
 {
     internal static class WindowFilter
     {

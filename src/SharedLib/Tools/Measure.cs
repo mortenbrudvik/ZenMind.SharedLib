@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
 using LanguageExt;
-using SharedLib.Extensions;
+using ZenMind.SharedLib.Extensions;
 
-namespace SharedLib.Tools
+namespace ZenMind.SharedLib.Tools
 {
     public static class Measure
     {

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Management;
 using Ardalis.GuardClauses;
 using static PInvoke.User32;
-using static SharedLib.SystemApi.DwmApi;
+using static ZenMind.SharedLib.SystemApi.DwmApi;
 
-namespace SharedLib.SystemApi
+namespace ZenMind.SharedLib.SystemApi
 {
     /// <summary>
     /// Wrapper for ApplicationWindows API calls (User32, DWMApi etc.)

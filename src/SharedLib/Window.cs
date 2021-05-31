@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using SharedLib.SystemApi;
+using ZenMind.SharedLib.SystemApi;
 
-namespace SharedLib
+namespace ZenMind.SharedLib
 {
     public sealed class Window
     {

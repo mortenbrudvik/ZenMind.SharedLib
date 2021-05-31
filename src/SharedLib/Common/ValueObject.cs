@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace SharedLib.Common
+namespace ZenMind.SharedLib.Common
 {
     public abstract class ValueObject
     {

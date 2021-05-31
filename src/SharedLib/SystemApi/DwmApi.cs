@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace SharedLib.SystemApi
+namespace ZenMind.SharedLib.SystemApi
 {
     public static class DwmApi
     {

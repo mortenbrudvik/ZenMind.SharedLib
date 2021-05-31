@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 
-namespace SharedLib.Tools
+namespace ZenMind.SharedLib.Tools
 {
     public static class Retry
     {

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using Ardalis.GuardClauses;
 using PInvoke;
-using SharedLib.SystemApi;
+using ZenMind.SharedLib.SystemApi;
 
-namespace SharedLib
+namespace ZenMind.SharedLib
 {
     internal sealed class WindowFactory 
     {

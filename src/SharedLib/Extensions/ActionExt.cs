@@ -1,7 +1,7 @@
 ﻿using System;
 using LanguageExt;
 
-namespace SharedLib.Extensions
+namespace ZenMind.SharedLib.Extensions
 {
     public static class ActionExt
     {
